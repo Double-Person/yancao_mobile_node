@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="154px" height="62px" viewBox="0 0 154 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>pic_home_logo5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3B947D" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="首页+互动交流" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-206.000000, -3937.000000)">
+            <g id="pic_home_logo5" transform="translate(206.000000, 3937.000000)">
+                <rect id="矩形" stroke="#D9D9D9" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="153" height="61"></rect>
+                <text id="四川中烟工业公司" font-family="MicrosoftYaHei-Bold, Microsoft YaHei" font-size="14" font-weight="bold" fill="#000000">
+                    <tspan x="21" y="36">四川中烟工业公司</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

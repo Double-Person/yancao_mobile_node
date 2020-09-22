@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>icon_home_hudong_lingdaoxinxiang</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页+互动交流" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-75.000000, -1768.000000)">
+            <g id="icon_home_hudong_lingdaoxinxiang" transform="translate(75.000000, 1768.000000)">
+                <g id="编组-4备份-2"></g>
+                <g id="编组-6" transform="translate(5.000000, 4.000000)">
+                    <path d="M1,10.7612195 L1,31.1558259 L35,31.1558259 L35,10.7612195 L18,19.1124139 L1,10.7612195 Z" id="矩形" stroke="#235399" stroke-width="2" fill="#E3EBF1"></path>
+                    <rect id="矩形" fill="#235399" x="6" y="26.1558259" width="23" height="2"></rect>
+                    <polyline id="路径-2" stroke="#235399" stroke-width="2" points="1.12345009 10.1558259 17.5 0 34.7824077 10.1558259"></polyline>
+                    <polyline id="路径-3" stroke="#235399" stroke-width="2" fill="#E3EBF1" points="9.49760508 13.9852235 9.49760508 9.15582586 26.4911985 9.15582586 26.4911985 13.9852235"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
